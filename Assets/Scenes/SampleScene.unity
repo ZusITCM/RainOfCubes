@@ -240,7 +240,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.88, z: -12.9}
+  m_LocalPosition: {x: -0.92, y: 5.88, z: -12.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -611,7 +611,7 @@ Transform:
   m_GameObject: {fileID: 1128124935}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7, y: -5, z: -1}
+  m_LocalPosition: {x: -8.49, y: -5, z: -1}
   m_LocalScale: {x: 20, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -961,7 +961,6 @@ MonoBehaviour:
   _cubePrefab: {fileID: 9162881088473259296, guid: 14d9c112eeb194c41a0513a288658836, type: 3}
   _poolCapacity: 10
   _spawnRate: 1
-  _isSpawning: 1
 --- !u!4 &2100981168
 Transform:
   m_ObjectHideFlags: 0
